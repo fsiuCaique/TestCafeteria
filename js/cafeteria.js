@@ -11,7 +11,7 @@ document.addEventListener("DOMContentLoaded", () => {
             itens.forEach(item => {
                 // Vamos criar uma constante oara cada imagem e inserir o caminho correto,
                 // por conta do sensitivity do git pages não consegue identificar o caminho para as imagens.
-                const imagemPath = `data/imag/${item.imagem}`;
+                const imagemPath = `data/img/${item.imagem}`;
                 
                 const div = document.createElement('div');
                 div.classList.add('cafeteira');
