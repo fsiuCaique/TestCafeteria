@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 const div = document.createElement('div');
                 div.classList.add('cafeteira');
                 div.innerHTML = `
-                    <img src="${item.imagem}" alt="${item.imagem}">
+                    <img src="data/img/${item.imagem}" alt="${item.imagem}" />
                     <h2>${item.nome}</h2>
                     <p>${item.descricao}</p>
                 `;
