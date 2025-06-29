@@ -2,7 +2,7 @@ let currentIndex = 0;
 let totalItems = 0;
 
 document.addEventListener("DOMContentLoaded", () => {
-    fetch('cafeteria.json')
+    fetch('../data/cafeteria.json')
         .then(response => response.json())
         .then(itens => {
             const carrossel = document.getElementById('carrossel');
