@@ -17,11 +17,11 @@
     {
         "nome": "Itens em promoção!",
         "descricao": "NOVIDADE: Pensando em aquecer seu inverno, estamos com uma nova tabela de preços.",
-        "imagem": "opcoes.jpg"
+        "imagem": "opcoes.png"
     },
     {
         "nome": "Tabela de preços atualizada",
         "descricao": "Um cardápio com promoções deliciosas.",
-        "imagem": "tabela.jpg"
+        "imagem": "tabela.png"
     }
 ]
