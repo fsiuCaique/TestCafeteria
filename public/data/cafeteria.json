@@ -1,0 +1,27 @@
+[
+    {
+        "nome": "Café Gourmet",
+        "descricao": "Excelente opção para quem aprecia os grãos moídos na hora.",
+        "imagem": "cafe.jpg"
+    },
+    {
+        "nome": "Torta de Morango Gourmet",
+        "descricao": "Nada melhor que acompanhar um delicioso café com essa torta.",
+        "imagem": "torta.jpg"
+    },
+    {
+        "nome": "Pão de Queijo Gourmet",
+        "descricao": "Um delicioso pão de queijo acompanhado com recheio de catupiry.",
+        "imagem": "pao.jpg"
+    },
+    {
+        "nome": "Itens em promoção!",
+        "descricao": "NOVIDADE: Pensando em aquecer seu inverno, estamos com uma nova tabela de preços.",
+        "imagem": "opcoes.png"
+    },
+    {
+        "nome": "Tabela de preços atualizada",
+        "descricao": "Um cardápio com promoções deliciosas.",
+        "imagem": "tabela.png"
+    }
+]

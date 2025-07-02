@@ -1,0 +1,36 @@
+[
+    {
+        "nome": "Café Gourmet",
+        "preco": "9,00"
+    },
+    {
+        "nome": "Torta de Morango Gourmet",
+        "preco": "24,00"
+    },
+    {
+        "nome": "Pão de Queijo Gourmet",
+        "preco": "6,00"
+    },
+    {
+        "nome": "Espresso",
+        "preco": "5,00"
+    },
+    {
+        "nome": "Latte",
+        "preco": "8,00"
+    },
+    {
+        "nome": "Mocha",
+        "preco": "9,00"
+    },
+    {
+        "nome": "Cookies Caseiros",
+        "preco": "4,00"
+    },
+    {
+        "nome": "Bolo de Chocolate",
+        "preco": "6,50"
+    }
+
+    
+]

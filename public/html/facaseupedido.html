@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>facaseupedido</title>
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+    <nav>
+        <a href="../index.html">Home</a>
+        <a href="sobreNos.html">Sobre</a>
+        <a href="faleConosco.html">Fale Conosco</a>
+        <a href="facaseupedido.html">Faça seu pedido!</a>
+    </nav>
+    <h2>📋 Faça seu pedido</h2>
+<form id= "formulario-pedido" action="https://formsubmit.co/backupcaio55@gmail.com" method="POST">
+  <label for="nome">Nome:</label><br>
+  <input type="text" name="nome" id="nome" required><br><br>
+
+  <label for="pedido">Selecione seu item:</label><br>
+  <select name="pedido" id="pedido" required>
+    <option value=""></option>
+    <!-- Opções devem ser inseridas através do arquivo javascript -->
+  </select><br><br>
+
+  <label for="msg">Observações:</label><br>
+  <textarea name="mensagem" id="msg" rows="4"></textarea><br><br>
+
+  <button type="submit">Enviar Pedido</button>
+
+<!-- espaço para criação de botão cancelar> v2 -->
+
+  <div id= "resposta" style="margin-top: 20px;"></div>
+
+</form>
+<script src="../js/pedido.js"></script>
+</body>
+</html>
